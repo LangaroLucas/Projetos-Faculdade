@@ -1,2 +1,2 @@
 # Projetos-Faculdade
-Todos os Projetos do Cuso
+Todos os Projetos do Curso
